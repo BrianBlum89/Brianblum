@@ -6,6 +6,7 @@
   - [VPN Prerequisites and Setup](https://github.com/BrianBlum89/VPN-Project-and-Prerequisites)
 
 - <b>osTicket (Help Desk Ticketing System)</b>
+  - [osTicket: Prerequisites and Installation](https://github.com/joshmadakorcc/osticket-prereqs)
   - [osTicket: Post-Installation Configuration](https://github.com/evannagel/post-install-config)
   - [osTicket: Ticket Lifecycle Examples](https://github.com/evannagel/ticket-lifecycle)
 - <b>Microsoft Azure</b>
