@@ -3,7 +3,7 @@
 <h2>👨‍💻 Information Technology Projects:</h2>
 
 - <b>VPN</b>
-  - [VPN Prerequisites and Setup](https://github.com/evannagel/vpn)
+  - [VPN Prerequisites and Setup]([https://github.com/evannagel/vpn](https://github.com/BrianBlum89/VPN-Project-and-Prerequisites)
 
 - <b>osTicket (Help Desk Ticketing System)</b>
   - [osTicket: Post-Installation Configuration](https://github.com/evannagel/post-install-config)
